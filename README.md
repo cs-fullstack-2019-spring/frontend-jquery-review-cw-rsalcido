@@ -1,3 +1,7 @@
+### POINTS: 1.5
+### KEY: Mostly correct, but you edited the provided HTML which you weren't supposed to do, and 2nd EX wasn't complete.
+### I cut you a bit of slack since the first EX was the most difficult and you got it for the most part.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
